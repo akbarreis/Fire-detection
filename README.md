@@ -1,2 +1,2 @@
 # Fire-detection
-Because of this, we manually sorted the datset into folders Fire (there is fire) and Firenetu (there is no fire). And then we created a model using tens or flow on ConvNets
+Как было описано по заданию, в датасете некоторые кратинки которые имеют неправильный target. Из за этого мы саморучно датсет отсортировали на папки Fire(есть огонь) и Firenetu(нету огня). И далее создали модель при помощи tensorflow на Conv Nets
